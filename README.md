@@ -3,7 +3,7 @@
 
 <br>
 ## 이미지 샘플입니다
-<img src="image.jpg" /><br>
+<img width="788" height="443" src="image.jpg" /><br>
 
 ## 발표자료 샘플입니다
 [발표자료](/sample.pptx) <br>
