@@ -5,11 +5,11 @@
 |이름 |박현성|![이미지](/image.jpg)|
 |연락처 | gustjd68(@)naver.com|
 |skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
+|| Backend - Java, Spring, Oracle|
 |자격증| 2022년 정보처리기사(현재 필기만) |
-| 2022년 빅데이터분석기사(예정) |
-| 2021년 SQLD |
-| 2022년 ADsP(예정) |
+|| 2022년 빅데이터분석기사(예정) |
+|| 2021년 SQLD |
+|| 2022년 ADsP(예정) |
 
 
 <br>
