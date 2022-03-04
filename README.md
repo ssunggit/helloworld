@@ -1,5 +1,16 @@
 # 박현성의 github 홈페이지
-### 개린이입니다.
+### 어린이 개발자 : 개발이
+<br><br>
+
+|이름 |박현성|![이미지](/image.jpg)|
+|연락처 | gustjd68(@)naver.com|
+|skill set| Frontend - HTML, CSS, Javascript|
+| | Backend - Java, Spring, Oracle|
+|자격증| 2022년 정보처리기사(현재 필기만) |
+|| 2022년 빅데이터분석기사(예정) |
+|| 2021년 SQLD |
+|| 2022년 ADsP(예정) |
+
 
 <br>
 ## 이미지 샘플입니다
