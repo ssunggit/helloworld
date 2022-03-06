@@ -17,6 +17,6 @@
 <iframe width="788" height="443" src="https://www.youtube.com/embed/UoB_VNIctcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ## Reference
-[깃헙](https://www.naver.com/)
+[깃헙](https://github.com/ssunggit/)
 
 
