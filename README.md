@@ -1,7 +1,7 @@
 # 박현성의 github 홈페이지
 ### 어린이 개발자 : 개발이
 <br><br>
-
+<hr>
 |이름 |박현성|![이미지](/ssung.jpg)|
 |연락처 | gustjd68(@)naver.com||
 |skill set| Frontend - HTML, CSS, Javascript||
@@ -11,11 +11,11 @@
 || 2021년 SQLD ||
 || 2022년 ADsP(예정) ||
 
-<br>
+<hr><br>
 ## 첫번째 과제 영상
-<iframe width="788" height="443" src="https://www.youtube.com/embed/UoB_VNIctcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/k9hp-p7_uBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
+<hr><br>
 ## github
 [깃헙](https://github.com/ssunggit/)
 
